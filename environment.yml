@@ -1,0 +1,8 @@
+name: kdd-paper
+
+dependencies:
+    - python==3.7.3
+    - pip:
+        - matplotlib==3.0.0
+        - torch
+        - wandb
